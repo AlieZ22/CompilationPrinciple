@@ -1,0 +1,10 @@
+//在.c源文件中，最上部加入如下代码：
+#pragma comment(lib, "libfl.lib")
+#pragma comment(linker, "/NODEFAULTLIB:LIBC.lib")
+
+
+另一种方法：
+修改项目属性：属性->链接器->输入下：附加依赖项加入libfl.lib的路径；忽略特定库加入：LIBC.lib。
+
+忽略报错：
+#pragma warning(disable:4996)

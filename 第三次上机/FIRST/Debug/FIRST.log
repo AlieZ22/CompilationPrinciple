@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(62,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(71,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(78,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(79,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(86,23): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(114,20): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(120,21): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(124,22): warning C4018:  “<”: 有符号/无符号不匹配
+E:\Box\编译原理\第三次上机\FIRST\main.cpp(130,22): warning C4018:  “<”: 有符号/无符号不匹配
+  FIRST.vcxproj -> E:\Box\编译原理\第三次上机\FIRST\Debug\FIRST.exe

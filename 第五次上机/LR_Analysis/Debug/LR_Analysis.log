@@ -1,0 +1,3 @@
+﻿  main2.cpp
+E:\Box\编译原理\第五次上机\LR_Analysis\main2.cpp(102,20): warning C4018:  “<”: 有符号/无符号不匹配
+  LR_Analysis.vcxproj -> E:\Box\编译原理\第五次上机\LR_Analysis\Debug\LR_Analysis.exe

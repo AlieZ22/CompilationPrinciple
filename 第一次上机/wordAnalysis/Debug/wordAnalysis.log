@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Program\C++\proj\wordAnalysis\main.cpp(91,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Program\C++\proj\wordAnalysis\main.cpp(108,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Program\C++\proj\wordAnalysis\main.cpp(197,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\Program\C++\proj\wordAnalysis\main.cpp(267,119): warning C4806:  “==”: 不安全操作: 从类型“bool”提升到类型“char”的值不能等于给定的常量
+  wordAnalysis.vcxproj -> D:\Program\C++\proj\wordAnalysis\Debug\wordAnalysis.exe

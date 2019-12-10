@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Box\编译原理\第四次上机\UnRecursiveAnalysis\main.cpp(67,12): warning C4018:  “<”: 有符号/无符号不匹配
+  UnRecursiveAnalysis.vcxproj -> E:\Box\编译原理\第四次上机\UnRecursiveAnalysis\Debug\UnRecursiveAnalysis.exe

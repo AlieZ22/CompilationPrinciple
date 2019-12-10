@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Box\编译原理\第六次上机\SemanticAnalysis\main.cpp(185,20): warning C4018:  “<”: 有符号/无符号不匹配
+  SemanticAnalysis.vcxproj -> E:\Box\编译原理\第六次上机\SemanticAnalysis\Debug\SemanticAnalysis.exe

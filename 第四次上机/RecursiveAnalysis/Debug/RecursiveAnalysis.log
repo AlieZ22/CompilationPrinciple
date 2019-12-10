@@ -1,0 +1,3 @@
+﻿  recursive_analysis.cpp
+E:\Box\编译原理\第四次上机\RecursiveAnalysis\recursive_analysis.cpp(40,20): warning C4018:  “<”: 有符号/无符号不匹配
+  RecursiveAnalysis.vcxproj -> E:\Box\编译原理\第四次上机\RecursiveAnalysis\Debug\RecursiveAnalysis.exe
