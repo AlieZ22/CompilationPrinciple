@@ -1,1 +1,2 @@
-大连理工大学软件学院 编译原理实验上机  仅供参考 :slightly_smiling_face:
+编译原理实验上机  仅供参考 :slightly_smiling_face:
+
